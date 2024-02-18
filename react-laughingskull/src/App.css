@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.navHeight {
+  height: 6rem;
+  /* border: 2px solid red; */
+}
+
+.socialIconContainer{
+  display: flex;
+  width: 8rem;
+  justify-content: space-between;
+}
+
+.logoHeader {
+  width: 13rem;
+}
+
+.headerContainer {
+  display: flex;
+  /* border: 5px solid green; */
+  /* justify-content: space-between; */
+}
