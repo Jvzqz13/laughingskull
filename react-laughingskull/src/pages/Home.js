@@ -1,11 +1,11 @@
 import CarouselHome from "../components/CarouselHome";
+import UpComingCard from "../components/UpComingCard";
 
 function Home () {
     return (
         <div> 
-
-        <h1> Laughing Skull Home </h1>
         <CarouselHome />
+        <UpComingCard />
         
         </div>
     )

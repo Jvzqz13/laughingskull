@@ -64,3 +64,8 @@
 justify-content: space-evenly;
 
 }
+
+.carouselimg img{
+  width:fit-content;
+  height: 500px;
+}
