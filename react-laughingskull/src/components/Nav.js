@@ -13,11 +13,11 @@ function Navi () {
         <Container className='headerContainer'>
           <Navbar.Brand href="#home"> <img src={LogoSkull} alt='logo' className='logoHeader'/> </Navbar.Brand>
           <Nav className="m-auto" >
-            <Nav.Link href="#home"> Home </Nav.Link>
-            <Nav.Link href="#features"> About Us </Nav.Link>
-            <Nav.Link href="#pricing"> Open Mics </Nav.Link>
-            <Nav.Link href="#pricing"> Contacts </Nav.Link>
-            <Nav.Link href="#pricing"> Comedy Classes </Nav.Link>
+            <Nav.Link href="/"> Home </Nav.Link>
+            <Nav.Link href="/aboutus"> About Us </Nav.Link>
+            <Nav.Link href="/openmics"> Open Mics </Nav.Link>
+            <Nav.Link href="/contacts"> Contacts </Nav.Link>
+            <Nav.Link href="#/comedyclasses"> Comedy Classes </Nav.Link>
 
           </Nav>
             <div className='socialIconContainer'>
