@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import AboutUs from './pages/AboutUs';
 import Navi from './components/Nav';
 import Footer from './components/Footer';
+import OpenMics from './pages/OpenMics';
 
 
 
@@ -18,6 +19,7 @@ function App() {
 
       <Route path='/' element={ <Home /> }  />
       <Route path='/aboutus' element={ <AboutUs /> }  />
+      <Route path='/openmics' element={ <OpenMics /> }  />
 
 
 

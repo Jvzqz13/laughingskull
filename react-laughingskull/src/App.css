@@ -78,3 +78,34 @@ justify-content: space-evenly;
       padding: 20px;
     }
 }
+
+.open-mics{
+  background-color: #282c34;
+  color: white;
+    p {
+      margin: 0;
+      padding: 20px;
+    }
+    ul {
+      list-style-type: none;
+    }
+}
+
+.main-section{
+  border: 2px solid red;
+
+}
+.open-micSection {
+  border: 2px solid green;
+  display: flex;
+}
+
+.img-pic{
+  border: 2px solid orange;
+  margin-left: auto;
+}
+.words{
+  border: 3px solid red;
+  margin-left: auto;
+
+}
