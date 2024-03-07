@@ -10,6 +10,7 @@ function AboutUs (){
             <div> 
             <p> 
                 Laughing Skull Lounge has been serving up laughs to Atlanta comedy fans since 2010. <br /> 
+                <br />
                 We are back open in our home location at The Vortex Midtown! <br />
                 Come see our signature, “Best of Atlanta Showcase” where you will see 8 comedians doing their <br />
                 best 10 minutes on Thursday - Sunday. <br />

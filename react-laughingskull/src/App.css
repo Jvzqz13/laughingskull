@@ -72,6 +72,7 @@ justify-content: space-evenly;
 
 .about-us {
   background-color: #282c34;
+  padding-bottom: 10%;
   color: white;
     p {
       margin: 0;
@@ -91,21 +92,18 @@ justify-content: space-evenly;
     }
 }
 
-.main-section{
-  border: 2px solid red;
-
-}
 .open-micSection {
-  border: 2px solid green;
+  /* border: 2px solid green; */
   display: flex;
+
 }
 
 .img-pic{
-  border: 2px solid orange;
-  margin-left: auto;
+  /* border: 5px solid orange; */
+  margin-right: auto;
 }
 .words{
-  border: 3px solid red;
+  /* border: 3px solid red; */
   margin-left: auto;
 
 }
