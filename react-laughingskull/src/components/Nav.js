@@ -17,7 +17,7 @@ function Navi () {
             <Nav.Link href="/aboutus"> About Us </Nav.Link>
             <Nav.Link href="/openmics"> Open Mics </Nav.Link>
             <Nav.Link href="/contacts"> Contacts </Nav.Link>
-            <Nav.Link href="#/comedyclasses"> Comedy Classes </Nav.Link>
+            <Nav.Link href="/comedyclass"> Comedy Classes </Nav.Link>
 
           </Nav>
             <div className='socialIconContainer'>

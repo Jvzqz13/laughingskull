@@ -5,6 +5,7 @@ import AboutUs from './pages/AboutUs';
 import Navi from './components/Nav';
 import Footer from './components/Footer';
 import OpenMics from './pages/OpenMics';
+import ComedyClass from './pages/ComedyClass';
 
 
 
@@ -20,6 +21,7 @@ function App() {
       <Route path='/' element={ <Home /> }  />
       <Route path='/aboutus' element={ <AboutUs /> }  />
       <Route path='/openmics' element={ <OpenMics /> }  />
+      <Route path='/comedyclass' element={ <ComedyClass /> }  />
 
 
 
